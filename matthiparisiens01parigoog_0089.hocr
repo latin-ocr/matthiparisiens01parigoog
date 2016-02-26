@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./matthiparisiens01parigoog/matthiparisiens01parigoog_0089.png"; bbox 0 0 4442 6392; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 579 2684 1468 2796">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 579 2684 1468 2796">
+     <span class='ocr_line' id='line_1_1' title="bbox 579 2684 1468 2796; baseline 0.004 -22"><span class='ocrx_word' id='word_1_1' title='bbox 579 2684 925 2778; x_wconf 83' lang='lat' dir='ltr'><strong>MATTHAEI</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 982 2685 1468 2796; x_wconf 84' lang='lat' dir='ltr'><strong>PARISIENSIS,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 727 2961 1317 3052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 727 2961 1317 3052">
+     <span class='ocr_line' id='line_1_2' title="bbox 727 2961 1317 3052; baseline -0.002 -15"><span class='ocrx_word' id='word_1_3' title='bbox 727 2962 933 3039; x_wconf 80' lang='grc' dir='ltr'><strong>ΜΟΝΑΟΗΙ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 956 2963 1110 3039; x_wconf 78' lang='lat' dir='ltr'>SANCTI</span> <span class='ocrx_word' id='word_1_5' title='bbox 1135 2961 1317 3052; x_wconf 78' lang='lat' dir='ltr'><strong>ALBANI,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 670 3221 1370 3315">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 670 3221 1370 3315">
+     <span class='ocr_line' id='line_1_3' title="bbox 670 3221 1370 3315; baseline 0.007 -5"><span class='ocrx_word' id='word_1_6' title='bbox 670 3221 978 3314; x_wconf 77' lang='lat' dir='ltr'>HISTORIA</span> <span class='ocrx_word' id='word_1_7' title='bbox 1013 3223 1370 3315; x_wconf 86' lang='lat' dir='ltr'><strong>ANGLORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2226 6388">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2226 6388">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2226 6388; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 2226 6388; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
